@@ -1,6 +1,5 @@
 # GarbEdge
 
-# GarbEdge
 
 GarbEdge is a smart garbage management web application that helps track, schedule, and optimize waste collection for urban and rural areas. It leverages Firebase for real-time data handling and scalable backend services.
 ---
